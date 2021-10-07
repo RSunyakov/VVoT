@@ -15,7 +15,7 @@ aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
 **Для сборкии можно использовать сборщик maven, со следующими параметрами: `mvn clean compile assembly:single`**
 
-**Собранный файл получается большой, поэтому не поместился на гит. Загрузил его на [Яндекс.Диск]()**
+**Собранный файл получается большой, поэтому не поместился на гит. Загрузил его на [Яндекс.Диск](https://disk.yandex.ru/d/I3D1_tdZmH6-dQ)**
 
 **Запустить его можно с помощью команды `java -jar путь_до_файла/vvot-1.0-SNAPSHOT-jar-with-dependencies.jar cloudphoto аргументы(download, upload, list)`**
 
